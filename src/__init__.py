@@ -2,7 +2,7 @@ import os
 
 from dotenv import load_dotenv
 
-from . import config, handlers
+from . import handlers
 from .core import BotManager
 
 load_dotenv()
