@@ -19,4 +19,4 @@ mg.load_routers()
 bot = mg.bot
 dp = mg.dp
 
-__all__ = ["bot", "dp", "config", "handlers"]
+__all__ = ["bot", "dp", "handlers"]
